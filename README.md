@@ -6,6 +6,8 @@ Além da API, também desenvolvi um pequeno cliente em PHP para consumir os endp
 A aplicação funciona com operações de CRUD (criar, listar, editar e deletar alunos) e utiliza o banco de dados SQLite, por ser simples e fácil de usar no ambiente da disciplina.
 
 ---
+## 📁 Estrutura do projeto
+
 projeto_integrador_IVB/
 │
 ├── api/
