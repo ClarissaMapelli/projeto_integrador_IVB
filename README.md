@@ -8,6 +8,7 @@ A aplicação funciona com operações de CRUD (criar, listar, editar e deletar 
 ---
 ## 📁 Estrutura do projeto
 
+```text
 projeto_integrador_IVB/
 │
 ├── api/
@@ -21,6 +22,8 @@ projeto_integrador_IVB/
 │
 └── db/
     └── alunos.db
+```
+
 
 
 ---
