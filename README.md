@@ -80,11 +80,7 @@ http://localhost/projeto_api/api/alunos.php
 **Cliente PHP:**  
 http://localhost/projeto_api/client_php/lista_alunos.php
 
----
-
-## 📹 Vídeo de apresentação
-
-*(adicione aqui o link quando enviar)*  
+ 
 
 ---
 
